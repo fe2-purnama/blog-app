@@ -1,0 +1,14 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "How To Train Your Pokemon",
+      "article": "This article will train your pokemon"
+    },
+    {
+      "id": "2",
+      "title": "Learn Javascript Without Java, Only Script",
+      "article": "This article will make you rule the world"
+    }
+  ]
+}
